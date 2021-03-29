@@ -10,7 +10,7 @@
 
 ## DIFFERENCES IN THE RIDE SHARING DATA AMONG DIFFERENT CITY TYPES
 
-![image](PyBer_Analysis/analysis/Pyber_summary.PNG)
+![Pyber_summary.PNG](analysis/Pyber_summary.PNG)
 
 ###### Rural cities have the highest Average fair per ride compared to urban and suburban cities
 ###### Rural cities also have the highest Average fair per driver compared to urban and suburban cities
