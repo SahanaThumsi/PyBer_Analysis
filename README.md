@@ -22,4 +22,4 @@
 - suburban cities need to check why fares have reduced after april begins
 - Urban cities can work on how to improve rides from january to mid of febuary
 
-![image]PyBer_Analysis/analysis/Pyber_fare_summary.png
+![Pyber_fare_summary.png]analysis/Pyber_fare_summary.png
